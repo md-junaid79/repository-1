@@ -1,4 +1,8 @@
 # hello world
-### howru
+
+
+# hello welcome to my first readme 
+
+## this is the first 
 
 
